@@ -1,0 +1,308 @@
+{
+  "questions": [
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "Who discovered gravity when observing a falling apple?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+      "answer": "Isaac Newton"
+    },
+    {
+      "question": "What is the capital city of Japan?",
+      "options": ["Tokyo", "Seoul", "Beijing", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Which instrument measures temperature?",
+      "options": ["Barometer", "Thermometer", "Hygrometer", "Altimeter"],
+      "answer": "Thermometer"
+    },
+    {
+      "question": "Which continent is the Sahara Desert located on?",
+      "options": ["Asia", "Africa", "Australia", "South America"],
+      "answer": "Africa"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Au", "Gd", "Go"],
+      "answer": "Au"
+    },
+    {
+      "question": "Which animal is known as the King of the Jungle?",
+      "options": ["Tiger", "Elephant", "Lion", "Leopard"],
+      "answer": "Lion"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": ["China", "Brazil", "UK", "Russia"],
+      "answer": "Brazil"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Mercury", "Iron", "Copper", "Silver"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "options": ["Rome", "Venice", "Milan", "Naples"],
+      "answer": "Rome"
+    },
+    {
+      "question": "Which vitamin is mainly obtained from sunlight?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "Which bird is the largest in the world?",
+      "options": ["Ostrich", "Eagle", "Penguin", "Swan"],
+      "answer": "Ostrich"
+    },
+    {
+      "question": "How many sides does a hexagon have?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6"
+    },
+    {
+      "question": "Which country invented paper?",
+      "options": ["India", "Egypt", "China", "Greece"],
+      "answer": "China"
+    },
+    {
+      "question": "Which blood cells fight infection?",
+      "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+      "answer": "White Blood Cells"
+    },
+    {
+      "question": "Which is the fastest land animal?",
+      "options": ["Cheetah", "Lion", "Horse", "Tiger"],
+      "answer": "Cheetah"
+    },
+    {
+      "question": "Which ocean lies between Africa and Australia?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": "Indian Ocean"
+    },
+
+    {
+      "question": "Which element has the chemical symbol 'Na'?",
+      "options": ["Nitrogen", "Sodium", "Nickel", "Neon"],
+      "answer": "Sodium"
+    },
+    {
+      "question": "Which country is famous for the Great Wall?",
+      "options": ["Japan", "China", "Korea", "Thailand"],
+      "answer": "China"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Heart", "Liver", "Skin", "Lungs"],
+      "answer": "Skin"
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "options": ["0°C", "10°C", "32°C", "50°C"],
+      "answer": "0°C"
+    },
+    {
+      "question": "Which gas do humans need to breathe?",
+      "options": ["Nitrogen", "Carbon Dioxide", "Oxygen", "Helium"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "answer": "Nile"
+    },
+    {
+      "question": "Which device is used to measure earthquakes?",
+      "options": ["Seismograph", "Barometer", "Thermometer", "Speedometer"],
+      "answer": "Seismograph"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "How many legs does a spider have?",
+      "options": ["6", "8", "10", "12"],
+      "answer": "8"
+    },
+    {
+      "question": "Which continent is the largest?",
+      "options": ["Africa", "Asia", "Europe", "North America"],
+      "answer": "Asia"
+    },
+
+    {
+      "question": "Which fruit keeps the doctor away according to the proverb?",
+      "options": ["Apple", "Banana", "Orange", "Grapes"],
+      "answer": "Apple"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "answer": "Ottawa"
+    },
+    {
+      "question": "Which color is formed by mixing red and blue?",
+      "options": ["Green", "Purple", "Orange", "Yellow"],
+      "answer": "Purple"
+    },
+    {
+      "question": "Which planet is famous for its rings?",
+      "options": ["Saturn", "Mars", "Earth", "Mercury"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "Which metal is used to make electrical wires?",
+      "options": ["Copper", "Aluminum", "Iron", "Gold"],
+      "answer": "Copper"
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "options": ["206", "210", "198", "220"],
+      "answer": "206"
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara", "Gobi", "Kalahari", "Arabian"],
+      "answer": "Sahara"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "Thailand", "Vietnam"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Which is the main language spoken in Brazil?",
+      "options": ["Spanish", "Portuguese", "French", "English"],
+      "answer": "Portuguese"
+    },
+    {
+      "question": "Which part of the plant conducts photosynthesis?",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "answer": "Leaf"
+    },
+
+    {
+      "question": "Which instrument measures air pressure?",
+      "options": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+      "answer": "Barometer"
+    },
+    {
+      "question": "What is H2O commonly known as?",
+      "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
+      "answer": "Water"
+    },
+    {
+      "question": "Which is the smallest continent?",
+      "options": ["Europe", "Australia", "Antarctica", "South America"],
+      "answer": "Australia"
+    },
+    {
+      "question": "What is the capital city of Germany?",
+      "options": ["Munich", "Berlin", "Hamburg", "Frankfurt"],
+      "answer": "Berlin"
+    },
+    {
+      "question": "Which animal is the tallest in the world?",
+      "options": ["Elephant", "Giraffe", "Camel", "Horse"],
+      "answer": "Giraffe"
+    },
+    {
+      "question": "Which ocean is the coldest?",
+      "options": ["Arctic Ocean", "Atlantic Ocean", "Pacific Ocean", "Indian Ocean"],
+      "answer": "Arctic Ocean"
+    },
+    {
+      "question": "Which sport uses a bat and ball?",
+      "options": ["Football", "Cricket", "Hockey", "Tennis"],
+      "answer": "Cricket"
+    },
+    {
+      "question": "Which organ helps in digestion by producing bile?",
+      "options": ["Stomach", "Liver", "Pancreas", "Kidney"],
+      "answer": "Liver"
+    },
+    {
+      "question": "Which is the largest island in the world?",
+      "options": ["Greenland", "Madagascar", "Borneo", "Sumatra"],
+      "answer": "Greenland"
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "options": ["Barcelona", "Madrid", "Valencia", "Seville"],
+      "answer": "Madrid"
+    },
+
+    {
+      "question": "Which gas is used in balloons to make them float?",
+      "options": ["Oxygen", "Nitrogen", "Helium", "Hydrogen"],
+      "answer": "Helium"
+    },
+    {
+      "question": "Which is the largest ocean animal?",
+      "options": ["Shark", "Blue Whale", "Dolphin", "Octopus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Which country is known for pyramids?",
+      "options": ["Mexico", "Egypt", "Peru", "Greece"],
+      "answer": "Egypt"
+    },
+    {
+      "question": "Which number is an even number?",
+      "options": ["3", "7", "10", "11"],
+      "answer": "10"
+    },
+    {
+      "question": "Which is the hottest planet in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Venus"
+    },
+    {
+      "question": "Which animal is known for changing its color?",
+      "options": ["Chameleon", "Lizard", "Frog", "Snake"],
+      "answer": "Chameleon"
+    },
+    {
+      "question": "Which is the largest country in the world by area?",
+      "options": ["USA", "Russia", "China", "Canada"],
+      "answer": "Russia"
+    },
+    {
+      "question": "Which is the longest bone in the human body?",
+      "options": ["Femur", "Tibia", "Humerus", "Radius"],
+      "answer": "Femur"
+    },
+    {
+      "question": "Which device is used to look at stars and planets?",
+      "options": ["Microscope", "Telescope", "Periscope", "Binocular"],
+      "answer": "Telescope"
+    },
+    {
+      "question": "Which continent has the most countries?",
+      "options": ["Africa", "Europe", "Asia", "South America"],
+      "answer": "Africa"
+    }
+  ]
+}
