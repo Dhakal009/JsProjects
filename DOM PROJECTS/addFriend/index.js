@@ -9,7 +9,7 @@ addFriend.addEventListener("click",function(){
     if (flag === 0){
         nameTag.textContent = "Friends";
         nameTag.style.color="Green"
-        addFriend.textContent = "Remove Friend"
+        addFriend.textContent = "Remove Friendk"
         addFriend.style.backgroundColor = "Blue";
         flag = 1;
     }else{
