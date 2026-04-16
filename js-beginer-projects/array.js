@@ -155,7 +155,7 @@
     // countries = ["India", ...countries];
     // console.log(countries);
 
-// 9 
+// 9 b
 
     // let arr = [1,2,3];
     // let arr2 = [...arr];
