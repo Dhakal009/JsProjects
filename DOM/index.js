@@ -1,40 +1,44 @@
-// var var1 = document.querySelector("h1");
-// var1.innerHTML = "CHANGED HTML";
+// const h1 = document.querySelector("h1");
 
-// var1.style.color="red";
-
-// var1.style.backgroundColor = "yellow";
+// h1.innerText = "hii bikash how are you?"
 
 
-// event listner
-
-// var1.addEventListener("click",function(){
-//     var1.innerHTML = "I JUST LEARNED EVENT LISTNER";
-//     var1.style.backgroundColor = "black";
-//     var1.style.color = "yellow"
-// })
+// const h2 = document.createElement("h2");
+// h2.innerText = "I am fine and you";
+// document.body.append(h2);
 
 
-// var btn = document.querySelector("button");
-// var bulb = document.querySelector("#bulb");
+// const list = document.querySelectorAll("li");
+
+// list.forEach(val => {
+//     console.log(val.textContent);
+// });
 
 
-// var flag = 0;
-// btn.addEventListener("click", function(){
-//     if(flag === 0 ){
-//         bulb.style.backgroundColor = "yellow";
-//         btn.innerHTML = "OFF";
-//         flag = 1;
-//     }else{
-//         bulb.style.backgroundColor = "white";
-//         btn.innerHTML = "ON";
-//         flag = 0;
-//     }
-// })
+// const image =  document.querySelector("img");
+// image.setAttribute("src","https://images.unsplash.com/photo-1773083405815-34ea5253db0b?q=80&w=736&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
+
+// const img = document.createElement("img")
+// img.classList.add("placeholder");
+// img.setAttribute("src","https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png");
+// document.querySelector("div").prepend(img);
 
 
-const h = document.querySelectorAll("h1");
 
-h.forEach(function(e){
-    console.log(e);
-})
+// const list = document.querySelector("li")
+// list.remove();
+
+//or
+
+// const ul = document.querySelector("ul");
+// const li = document.querySelector("li");
+
+// ul.removeChild(li);
+
+
+
+// const ul = document.querySelectorAll("ul li:nth-child(2n)");
+
+// ul.forEach(val => {
+//     val.classList.add("highlight")
+// });
