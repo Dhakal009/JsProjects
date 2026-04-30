@@ -174,3 +174,15 @@
 //         box.style.top = dets.clientY + "px";
 //         box.style.left = dets.clientX + "px";
 // })
+
+
+// document.querySelector("ul").addEventListener("click",(e)=>{
+//     e.target.classList.toggle("cut");
+// })
+
+let input = document.querySelector("input");
+let counter = document.querySelector("span");   
+
+input.addEventListener("input",()=>{
+    counter.textContent = input.value.length;
+})

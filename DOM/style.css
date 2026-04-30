@@ -7,6 +7,7 @@ html,body{
     width: 100%;
     height: 100%;
     font-family:monospace;
+    background-color: #555;
 }
 
 /* .container{
@@ -157,3 +158,44 @@ img{
     position: absolute;
     transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
 } */
+
+/* 
+ul{
+    padding: 40px;
+    font-size: 40px;
+}
+
+li{
+    cursor: pointer;
+    user-select: none;
+}
+
+.cut{
+    text-decoration: line-through;
+} */
+
+.main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 60%;
+    height: 60px;
+    font-size: larger;
+    border: none;
+    font-weight: 500;
+    border-radius: 10px;
+}
+
+input:focus{
+    border:3px solid rgb(167, 238, 167);
+    outline: none;
+}
+
+
