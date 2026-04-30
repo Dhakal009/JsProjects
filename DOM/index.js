@@ -42,3 +42,135 @@
 // ul.forEach(val => {
 //     val.classList.add("highlight")
 // });
+
+// let counter = 0
+// const pg = document.querySelector("p");
+// pg.addEventListener("dblclick",() =>{
+//     if (counter === 0){
+//     pg.style.color = "red";
+//     counter = 1;
+//     }
+//     else{
+//     pg.style.color = "black";
+//     counter = 0;
+//     }
+// })
+
+// const body = document.querySelector("body");
+
+// body.addEventListener("keyup",()=>{
+//     alert("fuck you")
+// })
+
+
+// const input = document.querySelector("input");
+
+// input.addEventListener("input",(val)=>{
+//     if(val.data !== null){
+//         console.log(val.data);
+//     }
+// })
+
+// const selection  = document.querySelector("select");
+// const heading = document.querySelector("#heading");
+
+// selection.addEventListener("change",(e)=>{
+//     heading.textContent = `${e.target.value} Choosen`;
+// })
+
+
+// const heading = document.querySelector("#heading");
+// window.addEventListener("keydown",(e)=>{
+//     if(e.key === " "){
+//         heading.textContent = "SPACE"
+//     }
+//     else{
+//         heading.textContent = e.key
+//     }
+    
+// })
+
+// const input = document.querySelector("input");
+// const btn = document.querySelector("p");
+
+// btn.addEventListener("click",(e)=>{
+//     input.click();
+// })
+
+// input.addEventListener("change",(e)=>{
+//     btn.textContent = e.target?.files[0].name;
+// })
+
+
+
+// const form = document.querySelector("form");
+// const main = document.querySelector(".main")
+// const container = document.querySelector(".container")
+// const inputs = document.querySelectorAll("input");
+
+// form.addEventListener("submit",(dets) => {
+//         dets.preventDefault();
+//         const card = document.createElement("div")
+//         card.classList.add("card");
+
+//         const profile = document.createElement("div");
+//         profile.classList.add("profile");
+        
+//         const img = document.createElement("img");
+//         img.setAttribute("src",inputs[3].value)
+        
+//         const h1 = document.createElement("h1");
+//         h1.textContent = inputs[0].value;
+
+//         const details = document.createElement("div");
+//         details.classList.add("details");
+
+//         const h3 = document.createElement("h3");
+//         h3.textContent = "Details: ";
+
+//         const p1 = document.createElement("p");
+//         p1.textContent = `Age: ${inputs[1].value}`;
+
+//         const p2 = document.createElement("p");
+//         p2.textContent = `Email: ${inputs[2].value}`;
+
+
+//         // apending classes:
+
+//         profile.appendChild(img);
+
+//         card.appendChild(profile);
+//         card.appendChild(h1);
+//         card.appendChild(details);
+
+//         details.appendChild(h3);
+//         details.appendChild(p1);
+//         details.appendChild(p2);
+
+//         container.appendChild(card);
+
+//         inputs.forEach((inp) => {
+//                 if(inp.type !== "submit"){
+//                         inp.value = "";
+//                 }
+//         })
+        
+// })
+
+
+// const box = document.querySelector(".box");
+// box.addEventListener("mouseover",()=>{
+//         box.style.backgroundColor = "white"
+// })
+
+// box.addEventListener("mouseout",()=>{
+//         box.style.backgroundColor = "black";
+// })
+
+
+// const box = document.querySelector(".box");
+
+// window.addEventListener("mousemove",(dets)=>{
+//         box.style.top = dets.clientY + "px";
+//         box.style.left = dets.clientX + "px";
+// })

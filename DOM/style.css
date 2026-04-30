@@ -1,11 +1,22 @@
 *{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 html,body{
-    height: 100%;
     width: 100%;
+    height: 100%;
+    font-family:monospace;
 }
 
+/* .container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    background-color: rgb(122, 157, 223)
+} */
 /* #bulb{
     height:300px;
     width:300px;
@@ -19,7 +30,7 @@ button{
     margin: 100px;
 } */
 
-
+/* 
 h1{
     font-weight: 800px;
 }
@@ -35,3 +46,114 @@ h1{
     font-weight: bolder;
     color:red;
 }
+
+p:hover{
+    cursor: pointer;
+} */
+
+/* 
+input{
+    display: none;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 3rem;
+    background-color:rgb(125, 226, 154);
+}
+
+p:hover{
+    cursor: pointer;
+    background-color: rgb(95, 170, 116);
+}
+ */
+
+/* .main{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(219, 218, 218);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+form{
+    width: 100%;    
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+form input{
+    width: 80%;
+    height: 40px;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+
+.card{
+    width: 500px;
+    height: 500px;
+    border: 1px solid #555;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card h1{
+    margin-top: 40px;
+    margin-bottom:30px;
+}
+
+.details{
+    margin-right: 130px;
+}
+
+.details h3{
+    margin-bottom: 10px;
+} */
+
+/* body{
+    position: relative;
+    overflow: hidden;
+}
+ 
+
+.box{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
+} */
